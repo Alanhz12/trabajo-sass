@@ -1,0 +1,20 @@
+header {
+  background-color: #dd0f0f; }
+
+.lista {
+  text-decoration: double; }
+
+footer {
+  background-color: rgba(179, 172, 172, 0.596); }
+
+a {
+  text-decoration: overline; }
+
+body {
+  background-color: #ec4646; }
+
+h2 {
+  text-decoration: double; }
+
+p {
+  text-decoration: overline; }

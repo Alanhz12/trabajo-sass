@@ -1,0 +1,12 @@
+@import "header";
+@import"variables";
+@import "footer";
+body{
+    background-color: rgb(236, 70, 70);
+}
+h2{
+    text-decoration: $text-decorado;
+}
+p{
+    text-decoration:$decorado;
+}
